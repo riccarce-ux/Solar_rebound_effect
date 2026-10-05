@@ -1,0 +1,1 @@
+print('Rick,Nick,Paola,Amelie')
